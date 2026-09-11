@@ -560,6 +560,18 @@ Built as part of a practical journey into Machine Learning Engineering.
 
 ---
 
+# Streamlit Dashboards
+
+![Dashboard 1](visuals/dashboard1.png)
+
+![Dashboard 2](visuals/dashboard2.png)
+
+![Dashboard 3](visuals/dashboard3.png)
+
+![Dashboard 4](visuals/dashboard4.png)
+
+---
+
 # ⭐ Project Status
 
 ```text
